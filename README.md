@@ -5,8 +5,6 @@ A simple Python-based tool that reads AI-user chat logs from `.txt` files and su
 - Counts total number of messages
 - Separates and analyzes messages from User and AI
 - Extracts top 5 frequently used keywords (excluding stopwords)
-- Supports multiple files in a folder
-- Simple CLI-based usage
 
 **How to Run**
 
